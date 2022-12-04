@@ -161,5 +161,4 @@ body {
 .botao_secundario:hover {
     color: var(--botao-azul-efeito);
     transition: 1s;
-    scale: 1.2;
 }
